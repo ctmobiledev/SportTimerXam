@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SportTimerXam.App">
+
+    <Application.Resources>
+
+        <Color x:Key="PrimaryColor">#0066FF</Color>
+        <Color x:Key="SecondaryColor">White</Color>
+
+        <Style TargetType="Label">
+            <Setter Property="FontFamily" Value="OpenSansRegular" />
+        </Style>
+
+        <!--
+            <Setter Property="TextColor" Value="{DynamicResource PrimaryColor}" />
+        -->
+
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="WorkSansRegular" />
+            <Setter Property="FontSize" Value="22" />
+            <Setter Property="TextColor" Value="Black" />
+            <Setter Property="BackgroundColor" Value="{DynamicResource SecondaryColor}" />
+            <Setter Property="Padding" Value="14,10" />
+        </Style>
+
+    </Application.Resources>
+
+</Application>

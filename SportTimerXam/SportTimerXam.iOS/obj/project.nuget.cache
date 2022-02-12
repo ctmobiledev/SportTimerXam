@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Fl0h0ShexyWe7cB0gM83308eBH7djW+JpktYY0Mvq8oXGgvWPy811USOESnl+HPi0HNekYVXPWFYulrNv1Ffw==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin_Projects\\SportTimerXam\\SportTimerXam\\SportTimerXam.iOS\\SportTimerXam.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

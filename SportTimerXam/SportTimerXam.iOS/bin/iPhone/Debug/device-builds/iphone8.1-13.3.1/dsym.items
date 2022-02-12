@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="SportTimerXam.iOS.app">
+      <NativeExecutable>SportTimerXam.iOS</NativeExecutable>
+      <CompiledArchitectures>ARM64</CompiledArchitectures>
+      <NoDSymUtil>false</NoDSymUtil>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <SymbolsList>\Users\charlestatumii\Library\Caches\Xamarin\mtbs\builds\SportTimerXam.iOS\d1b0fb05a555dfa6171663b12375459337bf5f45d51692019a575882b04b3cf8\obj\iPhone\Debug\device-builds\iphone8.1-13.3.1\mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>

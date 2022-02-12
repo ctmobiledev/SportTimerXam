@@ -1,0 +1,15 @@
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\bin\Debug\netstandard2.0\SportTimerXam.deps.json
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\bin\Debug\netstandard2.0\SportTimerXam.dll
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\bin\Debug\netstandard2.0\SportTimerXam.pdb
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\SportTimerXam.csproj.AssemblyReference.cache
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\SportTimerXam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\SportTimerXam.AssemblyInfoInputs.cache
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\SportTimerXam.AssemblyInfo.cs
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\SportTimerXam.csproj.CoreCompileInputs.cache
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\SportTimerXam.dll
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\refint\SportTimerXam.dll
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\SportTimerXam.pdb
+C:\Xamarin_Projects\SportTimerXam\SportTimerXam\SportTimerXam\obj\Debug\netstandard2.0\ref\SportTimerXam.dll

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#0066FF"
+             Padding="15"
+             x:Class="SportTimerXam.MainPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
+        <Label x:Name="lblGreenLight" BackgroundColor="DarkGreen" HorizontalOptions="FillAndExpand" HeightRequest="100" Margin="0,0,0,10"/>
+        <Label x:Name="lblClock" BackgroundColor="Black" HorizontalOptions="FillAndExpand" FontFamily="Numbers" Text="{Binding strSeconds}" Margin="0,0,0,10" TextColor="White" HeightRequest="140" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="100"/>
+        <Label x:Name="lblRedLight" BackgroundColor="DarkRed" HorizontalOptions="FillAndExpand" HeightRequest="100"/>
+
+        <StackLayout Margin="0,20,0,0" Orientation="Horizontal">
+            <Button x:Name="btnReset" Text="Reset" Clicked="btnReset_Clicked" HorizontalOptions="FillAndExpand" Margin="0,0,10,0"/>
+            <Button x:Name="btnStart" Text="Start" Clicked="btnStart_Clicked" HorizontalOptions="FillAndExpand" Margin="0,0,10,0"/>
+            <Button x:Name="btnStop" Text="Stop" Clicked="btnStop_Clicked" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
